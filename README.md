@@ -13,4 +13,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 Certifications
 
 •	Introduction to Cyber Security
+
 •	Google Cyber Security Certification
