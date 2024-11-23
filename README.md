@@ -9,3 +9,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 Objective 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Networking engineer.
+  
+Certifications
+•	Introduction to Cyber Security
+•	Google Cyber Security Certification
